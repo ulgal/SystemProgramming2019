@@ -1,0 +1,1 @@
+cmd_/home/devel/share/kernellab-master/ptrav/dbfs_ptrav.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/devel/share/kernellab-master/ptrav/dbfs_ptrav.ko /home/devel/share/kernellab-master/ptrav/dbfs_ptrav.o /home/devel/share/kernellab-master/ptrav/dbfs_ptrav.mod.o ;  true
